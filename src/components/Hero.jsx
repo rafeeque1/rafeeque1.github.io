@@ -8,7 +8,7 @@ export default function Hero(){
           Hi, I’m <span className="text-primary">Rafeeque Aazam Ansar</span>
         </h1>
         <p className="mt-4 text-slate-300 max-w-2xl">
-          C++ Software Engineer focused on high-performance and low latency backends, parser engines and cloud-native microservices.
+          C++ Software Engineer having 7+ years of exeperienced focused on high-performance and low latency backends, parser engines and cloud-native microservices.
           Experienced with Drogon C++, ANTLR4, AWS Services, and focusing on fast C++ backends like API's , Middleware, Even Driven Applications, Grammar Development using ANTLR4 etc.
         </p>
         <div className="mt-6 flex gap-3">
