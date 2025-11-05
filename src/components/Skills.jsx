@@ -1,7 +1,7 @@
 import React from 'react'
 
 const skills = [
-  'C', 'C++ (11/14/17)', 'Drogon C++', 'ANTLR4', 'Visual Parser++', 'Parser and Lexer Development','Grammar Development', 'Python', 'JavaScript', 'AWS (S3, Lambda, SQS, EC2, RDS)',
+  'C', 'C++ (11/14/17)', 'Drogon C++','ORM, SOCI', 'ANTLR4', 'Visual Parser++', 'Parser and Lexer Development','Grammar Development', 'Python', 'JavaScript', 'AWS (S3, Lambda, SQS, EC2, RDS)',
   'gRPC', 'gTest', 'GDB','Valgrind', 'CMake', 'Conan Package Manager', 'Boost, STL', 'MySQL, PostgreSQL, MariaDB, SQL Server, MongoDB, Oracle, Azure Synapse, Snowflake',
   'OOPs, SOLID, Microservices, REST API','CI/CD, Github Workflows','Git, Github','Linux, Unix , RedHat, CentOS, Windows', 'Generative AI & Prompt Engineering, Cursor, VSCode with AI Coding.'
 ]
